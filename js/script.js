@@ -4,8 +4,8 @@ const{createApp} = Vue;
 createApp({
   data(){
     return{
-      who : 'sono Batman'
-
+      who : 'sono Batman' ,
+      imgHtml : '<img src="img/batman.jpg" alt="">', 
     }
   },
 
